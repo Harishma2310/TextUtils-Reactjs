@@ -1,0 +1,23 @@
+* {
+  resize: none;
+}
+
+.blue {
+  background-color: #0d6efd !important;
+}
+
+.blue nav {
+  background-color: #0dcaf0 !important;
+}
+
+.red {
+  background-color: #dc3545 !important;
+}
+
+.red nav {
+  background-color: #fd5768 !important;
+}
+
+::selection {
+  background-color: #ff0;
+}
